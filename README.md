@@ -86,7 +86,7 @@
   </nav>
 
   <section class="hero">
-    <h1>Build. Create. Inspire.</h1>
+    <h1>RM Shyboi inspire.</h1>
     <p>I build modern websites directly from my phone 🚀</p>
     <a href="about.html" class="btn">Learn More</a>
   </section>
